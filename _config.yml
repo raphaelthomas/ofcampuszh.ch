@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "de-CH"
+title                    : "Of@CampusZH"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
