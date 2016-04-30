@@ -1,16 +1,31 @@
-<!DOCTYPE html>
-<html>
+---
+layout: compress
+---
 
-  {% include head.html %}
+{% include base_path %}
 
-  <body class="no-sidebar">
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-    {% include header.html %}
-    <div class="page-content">
-        {{ content }}
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer.html %}
+      </footer>
     </div>
-    {% include footer.html %}
+
+    {% include scripts.html %}
+    {% include footer/custom.html %}
 
   </body>
-
 </html>
