@@ -9,8 +9,8 @@
 locale                   : "de-CH"
 title                    : "Of@CampusZH"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Of@CampusZH"
+description              : "Der studentische Offiziersverein der Universität und ETH Zürich"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
