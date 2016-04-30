@@ -58,6 +58,19 @@ analytics:
 google_ad_client         :
 google_ad_slot           :
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 # Site Author
 author:
