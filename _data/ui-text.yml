@@ -47,7 +47,7 @@ de: &DEFAULT_DE
   share_on_label        : "Share on"
   meta_label            :
   tags_label            : "Tags:"
-  categories_label      : "Categories:"
+  categories_label      : "Kategorien:"
   date_label            : "Updated:"
   comments_label        : "Leave a Comment"
   more_label            : "Learn More"
