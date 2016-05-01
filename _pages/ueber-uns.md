@@ -9,6 +9,8 @@ Unsere Statuten sind [hier](statuten.pdf) zu finden.
 
 ## Der Vorstand
 
+{% include vorstand.html %}
+
 
 ## Die Geschichte
 

@@ -5,6 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Of@CampusZH Settings
+vorstand                 :
+  - vattioni
+  - brenn
+  - ramseier
+  - seebacher
+  - triebe
+  - gambaro
+  - spaelti
+  - amrhein
+  - muehlemann
+
 # Site Settings
 locale                   : "de-CH"
 title                    : "Of@CampusZH"
