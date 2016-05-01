@@ -1,7 +1,7 @@
 {% include base_path %}
 
 {% if site.vorstand %}
-<div class="vorstand">
+<div class="vorstand grid__wrapper">
   {% for name in site.vorstand %}
   {% assign v = site.data.authors[name] %}
   <div class="archive__item-teaser">
