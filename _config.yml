@@ -73,6 +73,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      permalink: /:categories/:title/
       read_time: false
       comments: true
       share: true
