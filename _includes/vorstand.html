@@ -1,11 +1,10 @@
 {% include base_path %}
 
 {% if site.vorstand %}
-<div class="vorstand grid__wrapper">
+<div class="vorstand">
   {% for name in site.vorstand %}
   {% assign v = site.data.authors[name] %}
-  <div class="archive__item-teaser">
-  <div itemscope itemtype="http://schema.org/Person">
+  <div class="mitglied" itemscope itemtype="http://schema.org/Person">
     <div class="author__avatar">
       <img src="{{ v.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ v.name }}">
     </div>
@@ -14,7 +13,6 @@
       <h3 class="author__name">{{ v.name }}</h3>
       {% if v.bio %}<p class="author__bio">{{ v.bio }}</p>{% endif %}
     </div>
-  </div>
   </div>
   {% endfor %}
 </div>
