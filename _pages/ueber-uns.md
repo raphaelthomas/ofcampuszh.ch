@@ -1,6 +1,8 @@
 ---
 title: Der Verein
 permalink: /ueber-uns/
+header:
+  overlay_image: page-header-ueber-uns.jpg
 ---
 
 Unsere Mitglieder sind Studenten und Uni-/ETH-Absolventen, die als Offiziere in der Schweizer Armee Dienst leisten. Unser gemeinsames Ziel ist es, ein Netzwerk aufzubauen um so den Dialog zwischen den Hochschulen, der Wirtschaft und der Armee zu fördern. Zu diesem Zweck organisiert Of@campusZH verschiedene Anlässe , die einerseits diesen Dialog unterstützen und andererseits auf die Interessen der Mitglieder ausgerichtet sind. Auch die Erweiterung des “militärischen Know-Hows” wird dabei berücksichtigt. Wir legen grossen Wert auf Kameradschaft und pflegen darum das Netzwerk auch ausserhalb der Anlässe. Zu diesem Zweck findet jeweils an jedem ersten Mittwoch im Monat ein Stamm statt. Ebenfalls kommt der interdisziplinäre Austausch zwischen den Studienrichtungen nicht zu kurz. Of@CampusZH deckt eine Vielzahl von Studienrichtungen und Jahrgängen ab (und es werden immer mehr).
