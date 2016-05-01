@@ -1,6 +1,8 @@
 ---
 title: Mitglied werden
 permalink: /mitglied-werden/
+header:
+  overlay_image: page-header-mitglied-werden.jpg
 ---
 Die Mitgliedschaft bei Of@CampusZH steht exklusiv offen f&uuml;r Studenten und Absolventen der Universit&auml;t Z&uuml;rich oder der ETH Z&uuml;rich, welche als Offiziere in der Schweizer Armee Dienst leisten.
 
