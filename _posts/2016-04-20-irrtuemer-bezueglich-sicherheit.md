@@ -1,5 +1,6 @@
 ---
 title: "Die sechs Irrt&uuml;mer bez&uuml;glich Sicherheit"
+categories: Allgemein
 ---
 
 Sicherheit ist keine Selbstverst&auml;ndlichkeit! Die Schweizer Armee als starker Partner in
