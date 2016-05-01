@@ -2,8 +2,18 @@
 
 {% if site.vorstand %}
 <div class="vorstand">
-  {% for v in site.vorstand %}
-  <h3>{{ site.data.authors[v].name }}</h3>
+  {% for name in site.vorstand %}
+  {% assign v = site.data.authors[name] %}
+  <div itemscope itemtype="http://schema.org/Person">
+    <div class="author__avatar">
+      <img src="{{ v.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ v.name }}">
+    </div>
+
+    <div class="author__content">
+      <h3 class="author__name">{{ v.name }}</h3>
+      {% if v.bio %}<p class="author__bio">{{ v.bio }}</p>{% endif %}
+    </div>
+  </div>
   {% endfor %}
 </div>
 {% endif %}
