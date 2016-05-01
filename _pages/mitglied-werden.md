@@ -8,7 +8,7 @@ Der Jahresbeitrag beträgt 40.- CHF. Eine Investition die sich auszahlt!
 
 Beachte bitte, dass lediglich Gesuche ber&uuml;cksichtigt werden k&ouml;nnen, welche folgende Punkte beinhalten:
 
-1. das ausgef&uuml;llte [Anmeldeformular](antrag_mitgliedschaft.pdf)
+1. das ausgef&uuml;llte [Anmeldeformular](/downloads/antrag_mitgliedschaft.pdf)
 2. die Immatrikulationsbest&auml;tigung
 3. eine Kopie des DB Seite 8 mit dem milit&auml;rischen Grad
 
