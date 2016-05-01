@@ -4,7 +4,7 @@
 <div class="vorstand" style="display: inline-block">
   {% for name in site.vorstand %}
   {% assign v = site.data.authors[name] %}
-  <div style="float: left; margin-right: 1.5em; width: 30%;" class="mitglied" itemscope itemtype="http://schema.org/Person">
+  <div style="float: left; margin-right: 1em; width: 30%;" class="mitglied" itemscope itemtype="http://schema.org/Person">
     <div class="author__avatar">
       <img src="{{ v.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ v.name }}">
     </div>
