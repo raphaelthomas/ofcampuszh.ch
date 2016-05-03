@@ -4,7 +4,7 @@ author: vattioni
 categories: Events
 ---
 
-Vor rund zwei Wochen hielt Herr Dr. Hubert Annen, Dozent für Militärpsychologie
+Am vergangenen Mittwochabend hielt Herr Dr. Hubert Annen, Dozent für Militärpsychologie
 und -pädagogik an der MILAK den rund 30 anwesenden Vereinsmitgliedern ein spannendes
 Referat zum Resilienz-Training der US Army. Das grosse Interesse an diesem Referat
 hat uns sehr gefreut.
