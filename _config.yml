@@ -170,7 +170,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -198,11 +197,3 @@ jekyll-archives:
   permalinks:
     category: "/categories/:name/"
     tag: "/tags/:name/"
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
