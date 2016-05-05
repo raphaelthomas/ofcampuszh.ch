@@ -2,6 +2,9 @@
 title: "Of@Uni mit dem CdA im Bundeshaus"
 author: seebacher
 categories: Events
+header:
+  image: 2016-04-17-ofuni-cda-bundeshaus/main.jpg
+  teaser: 2016-04-17-ofuni-cda-bundeshaus/teaser.jpg
 ---
 
 Am vergangenen Samstag, dem 16. April 2016, fand ein nationaler Event
