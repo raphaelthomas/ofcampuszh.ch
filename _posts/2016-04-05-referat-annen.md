@@ -2,6 +2,8 @@
 title: "Referat Resilienztraining der US Army"
 author: vattioni
 categories: Events
+header:
+  teaser: 2016-04-05-referat-annen/main.jpg
 ---
 
 Am vergangenen Mittwochabend hielt Herr Dr. Hubert Annen, Dozent für Militärpsychologie
