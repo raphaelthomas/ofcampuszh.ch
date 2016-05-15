@@ -30,11 +30,8 @@ F&uuml;r allgemeine Anfragen steht die Email-Adresse  [info@ofcampuszh.ch](mailt
 
 ## Kontoangaben
 
-Raiffeisenbank Zürich
-8001 Zürich
+Raiffeisenbank Zürich, 8001 Zürich
+
+Of@campusZH, Schwandenholzstrasse 246, 8046 Zürich
 
 IBAN: CH91 8148 7000 0422 0268 1
-
-Of@campusZH
-Schwandenholzstrasse 246
-8046 Zürich
