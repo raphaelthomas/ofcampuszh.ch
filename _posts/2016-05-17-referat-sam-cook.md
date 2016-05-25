@@ -1,3 +1,9 @@
+---
+title: "Warfare in the Digital Age"
+author: muehlemann
+categories: Events
+---
+
 Vor gut zwei Wochen war Sam Cook, ein Major aD der US Army, bei Of@CampusZH zu Gast. Als ehemaliger
 Geschichtsdozent an der United States Military Academy of West Point durchleuchtete er eindrucksvoll
 die Geschichte der U.S. Army. Er referierte auch über seine Erfahrungen als Kompaniekommandant im
