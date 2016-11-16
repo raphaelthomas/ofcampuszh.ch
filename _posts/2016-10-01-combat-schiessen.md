@@ -3,7 +3,8 @@ title: Combat Schiessen
 author: gambaro
 categories: events
 header:
-  image: 2016-10-01-combat-schiessen/01.jpg
+  image: 2016-10-01-combat-schiessen/header.jpg
+  teaser: 2016-10-01-combat-schiessen/teaser.jpg
 gallery:
   - url: 2016-10-01-combat-schiessen/01.jpg
     image_path: 2016-10-01-combat-schiessen/01-thumbnail.jpg
