@@ -7,8 +7,6 @@ header:
 
 {% include base_path %}
 
-<h3 class="archive__subtitle">Neuste Posts</h3>
-
 {% for post in paginator.posts %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
