@@ -7,14 +7,11 @@
 
 # Of@CampusZH Settings
 vorstand                 :
-  - vattioni
-  - brenn
-  - ramseier
-  - seebacher
-  - gambaro
-  - spaelti
-  - amrhein
   - muehlemann
+  - ramseier
+  - brenn
+  - spaelti
+  - seebacher
 
 # Site Settings
 locale                   : "de-CH"
