@@ -4,14 +4,13 @@ permalink: /mitglied-werden/
 header:
   overlay_image: page-header-mitglied-werden.jpg
 ---
-Die Mitgliedschaft bei Of@CampusZH steht exklusiv offen f&uuml;r Studenten und Absolventen der Universit&auml;t Z&uuml;rich oder der ETH Z&uuml;rich, welche als Offiziere in der Schweizer Armee Dienst leisten.
 
-Der Jahresbeitrag beträgt 40.- CHF. Eine Investition die sich auszahlt!
+Die Mitgliedschaft bei Of@CampusZH steht exklusiv Studenten und Absolventen
+der Universit&auml;t Z&uuml;rich oder der ETH Z&uuml;rich offen, welche
+als Offiziere in der Schweizer Armee Dienst leisten. Der Jahresbeitrag beträgt
+40.- CHF. Eine Investition die sich definitiv auszahlt!
 
-Beachte bitte, dass lediglich Gesuche ber&uuml;cksichtigt werden k&ouml;nnen, welche folgende Punkte beinhalten:
-
-1. das ausgef&uuml;llte [Anmeldeformular](/downloads/antrag_mitgliedschaft.pdf)
-2. die Immatrikulationsbest&auml;tigung
-3. eine Kopie des DB Seite 8 mit dem milit&auml;rischen Grad
-
-Antr&auml;ge f&uuml;r eine Mitgliedschaft werden nur auf dem Postweg behandelt. Fragen beantworten wir gerne per Email an [mitgliedschaft@ofcampuszh.ch](mailto:mitgliedschaft@ofcampuszh.ch)
+Antr&auml;ge f&uuml;r eine Mitgliedschaft werden mittels ausgef&uuml;lltem
+[Anmeldeformular](/downloads/antrag_mitgliedschaft.pdf) sowohl auf dem Postweg
+als auch via Email behandelt. Fragen beantworten wir gerne per Email an
+[mitgliedschaft@ofcampuszh.ch](mailto:mitgliedschaft@ofcampuszh.ch).
