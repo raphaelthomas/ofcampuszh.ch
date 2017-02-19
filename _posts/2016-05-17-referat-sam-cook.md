@@ -1,6 +1,8 @@
 ---
 title: "Warfare in the Digital Age"
 author: muehlemann
+header:
+  teaser: 2016-05-17-referat-sam-cook/teaser.jpg
 categories: Events
 ---
 

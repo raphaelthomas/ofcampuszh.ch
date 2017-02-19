@@ -2,6 +2,14 @@
 title: Combat Schiessen
 author: gambaro
 categories: events
+header:
+  image: 2016-10-01-combat-schiessen/header.jpg
+  teaser: 2016-10-01-combat-schiessen/teaser.jpg
+gallery:
+  - url: 2016-10-01-combat-schiessen/01.jpg
+    image_path: 2016-10-01-combat-schiessen/01-thumbnail.jpg
+  - url: 2016-10-01-combat-schiessen/02.jpg
+    image_path: 2016-10-01-combat-schiessen/02-thumbnail.jpg
 ---
 
 Am 1. Oktober war Of@CampusZH einmal mehr zu Gast bei dem von der OG Winterthur
@@ -20,3 +28,5 @@ mit gr&ouml;sster Freude ein Team stellen.
 An dieser Stelle sei der OG Winterthur und Umgebung und insbesondere dem
 Organisator Marc B&ouml;sch herzlichst für die abermalige Einladung gedankt.
 Bis zum n&auml;chsten Mal!
+
+{% include gallery %}
