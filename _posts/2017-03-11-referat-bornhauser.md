@@ -42,4 +42,4 @@ Juni d&uuml;rfen die Mitglieder von Of@CampusZH direkt vor Ort dem Stab des FU
 Bat 11 bei der Arbeit &uuml;ber die Schultern schauen. Weitere Informationen
 folgen!
 
-{% gallery %}
+{% include gallery %}
