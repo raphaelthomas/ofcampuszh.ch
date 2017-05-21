@@ -14,7 +14,7 @@ vorhanden. Mit einem geschichtlichen SNORDA auf der Polyterrasse begann eine Rei
 durch die Vergangenheit der Stadt Z&uuml;rich. Die F&uuml;hrung, mit Fokus auf das
 sp&auml;te Mittelalter und die Reformationszeit, f&uuml;hrte unter anderem in den
 normalerweise nicht &ouml;ffentlich zug&auml;nglichen Lindenhofkeller. In den
-Gew&ouml;lben unter dem Lindenhof, einst Brennpunkt und Machtzentrum der\
+Gew&ouml;lben unter dem Lindenhof, einst Brennpunkt und Machtzentrum der
 st&auml;dtischen Siedlung, finden sich bis heute die Reste des r&ouml;mischen
 Kastells und der mittelalterlichen K&ouml;nigspfalz. Des weiteren f&uuml;hrte uns
 Maj aD Leibundgut zur reformierten Kirche St. Peter, deren Turmuhr mit einem
