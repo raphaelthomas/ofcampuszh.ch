@@ -3,7 +3,7 @@ title: Referat Dr. Bruno Lezzi
 author: muehlemann
 categories: events
 header:
-  teaser: 2017-05-03-stadtfuehrung/teaser.jpg
+  teaser: 2017-04-05-referat-lezzi/teaser.jpg
 gallery:
   - url: 2017-04-05-referat-lezzi/01.jpg
     image_path: 2017-04-05-referat-lezzi/01-thumbnail.jpg
