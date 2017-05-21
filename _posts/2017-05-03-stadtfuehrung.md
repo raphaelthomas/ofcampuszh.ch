@@ -3,7 +3,6 @@ title: Historische Stadtf&uuml;hrung durch Z&uuml;rich
 author: muehlemann
 categories: events
 header:
-  image: 2017-05-03-stadtfuehrung/header.jpg
   teaser: 2017-05-03-stadtfuehrung/teaser.jpg
 ---
 
@@ -29,3 +28,5 @@ Dort endete zwar die F&uuml;hrung, aber nicht der Anlass: Bei einem Apero in der
 Maj aD Leibundgut erm&ouml;glichte uns einen einmaligen Einblick in die Geschichte
 der Stadt Z&uuml;rich und konnte uns &uuml;ber die eine oder andere Legende
 aufkl&auml;ren. Vielen Dank! 
+
+![image-center](/images/2017-05-03-stadtfuehrung/main.jpg){: .align-center}
