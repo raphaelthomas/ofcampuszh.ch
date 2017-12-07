@@ -26,7 +26,7 @@ Seit der Gr&uuml;ndung erfreuen wir uns an stetig wachsenden Mitgliederzahlen un
 
 ## Kontakt
 
-F&uuml;r allgemeine Anfragen steht die Email-Adresse  [info@ofcampuszh.ch](mailto:info@ofcampuszh.ch) zu Verf&uuml;gung. Antr&auml;ge auf Mitgliedschaft sind auf dem Postweg an den Sekret&auml;r zu richten (Adressangaben siehe Anmeldeformular).
+F&uuml;r allgemeine Anfragen steht die Email-Adresse  [info@ofcampuszh.ch](mailto:info@ofcampuszh.ch) zu Verf&uuml;gung. Antr&auml;ge auf Mitgliedschaft sind via Email an den Sekret&auml;r zu richten (Adressangaben siehe Anmeldeformular).
 
 ## Kontoangaben
 
