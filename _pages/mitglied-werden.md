@@ -13,4 +13,4 @@ als Offiziere in der Schweizer Armee Dienst leisten. Der Jahresbeitrag beträgt
 Antr&auml;ge f&uuml;r eine Mitgliedschaft werden mittels ausgef&uuml;lltem
 [Anmeldeformular](/downloads/antrag_mitgliedschaft.pdf) sowohl auf dem Postweg
 als auch via Email behandelt. Fragen beantworten wir gerne per Email an
-[mitgliedschaft@ofcampuszh.ch](mailto:mitgliedschaft@ofcampuszh.ch).
+[info@ofcampuszh.ch](mailto:info@ofcampuszh.ch).
