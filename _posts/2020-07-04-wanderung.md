@@ -22,7 +22,7 @@ gallery:
   - url:        2020-07-04-wanderung/08.jpg
     image_path: 2020-07-04-wanderung/08-thumbnail.jpg
   - url:        2020-07-04-wanderung/09.jpg
-    image_path: 2020-07-04-wanderung/08-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/09-thumbnail.jpg
   - url:        2020-07-04-wanderung/10.jpg
     image_path: 2020-07-04-wanderung/10-thumbnail.jpg
   - url:        2020-07-04-wanderung/11.jpg
