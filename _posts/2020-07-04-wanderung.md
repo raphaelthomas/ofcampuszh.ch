@@ -18,23 +18,23 @@ gallery:
   - url:        2020-07-04-wanderung/06.jpg
     image_path: 2020-07-04-wanderung/06-thumbnail.jpg
   - url:        2020-07-04-wanderung/07.jpg
-    image_path: 2021-07-04-wanderung/07-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/07-thumbnail.jpg
   - url:        2020-07-04-wanderung/08.jpg
-    image_path: 2021-07-04-wanderung/08-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/08-thumbnail.jpg
   - url:        2020-07-04-wanderung/09.jpg
-    image_path: 2021-07-04-wanderung/08-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/08-thumbnail.jpg
   - url:        2020-07-04-wanderung/10.jpg
-    image_path: 2021-07-04-wanderung/10-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/10-thumbnail.jpg
   - url:        2020-07-04-wanderung/11.jpg
-    image_path: 2021-07-04-wanderung/11-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/11-thumbnail.jpg
   - url:        2020-07-04-wanderung/12.jpg
-    image_path: 2021-07-04-wanderung/12-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/12-thumbnail.jpg
   - url:        2020-07-04-wanderung/13.jpg
-    image_path: 2021-07-04-wanderung/13-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/13-thumbnail.jpg
   - url:        2020-07-04-wanderung/14.jpg
-    image_path: 2021-07-04-wanderung/14-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/14-thumbnail.jpg
   - url:        2020-07-04-wanderung/15.jpg
-    image_path: 2021-07-04-wanderung/15-thumbnail.jpg
+    image_path: 2020-07-04-wanderung/15-thumbnail.jpg
 ---
 
 Am Morgen vom 4. Juli 2020 ging es los, von Zürich nach Elm. Dort angekommen, 
